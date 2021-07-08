@@ -20,3 +20,10 @@ Git
  git status
  git commit -m "Name of this stage"
  ```
+
+BACKEND
+ ```bash
+ //for the entry point put to server.js instead of index.js
+ npm init
+ npm i express mongoose 
+ ```
