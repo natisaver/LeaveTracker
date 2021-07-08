@@ -35,7 +35,7 @@ BACKEND (root folder, not /backend)
  npm i -D nodemon concurrently
  ```
  
-package.json
+package.json "scripts"
 ```bash
     "start": "node backend/server",
     "server": "nodemon backend/server",
