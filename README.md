@@ -34,3 +34,10 @@ BACKEND (root folder, not /backend)
  npm i express mongoose 
  npm i -D nodemon concurrently
  ```
+ 
+package.json
+```bash
+    "start": "node backend/server",
+    "server": "nodemon backend/server",
+    "client": "npm start --prefix frontend"
+```
