@@ -4,6 +4,7 @@ REACT FRONTEND
  ```bash
  npm i react-bootstrap //download the min.css frm bootswatch
  npm i react-router-dom react-router-bootstrap
+ npm i axios
  ```
  
  to index.html:
