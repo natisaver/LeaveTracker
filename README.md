@@ -7,6 +7,11 @@ REACT FRONTEND
  npm i axios
  ```
  
+ ```bash
+ since frontend localhost:3000 & backend on 5000, need proxy in package.json frontend
+ "proxy": "http://127.0.0.1:5000",
+ ```
+ 
  to index.html:
  https://cdnjs.com/libraries/font-awesome
 
