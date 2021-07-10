@@ -39,5 +39,6 @@ package.json "scripts"
 ```bash
     "start": "node backend/server",
     "server": "nodemon backend/server",
-    "client": "npm start --prefix frontend"
+    "client": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
 ```
