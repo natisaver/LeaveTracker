@@ -37,6 +37,8 @@ BACKEND (root folder, not /backend)
  
 package.json "scripts"
 ```bash
+    "type": "module"
+
     "start": "node backend/server",
     "server": "nodemon backend/server",
     "client": "npm start --prefix frontend",
