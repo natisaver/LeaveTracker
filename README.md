@@ -44,4 +44,7 @@ package.json "scripts"
     "server": "nodemon backend/server",
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
+    "data:import": "node backend/seeder -d",
+    "data:export": "node backend/seeder",
+
 ```
