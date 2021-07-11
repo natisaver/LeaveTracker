@@ -35,6 +35,7 @@ BACKEND (root folder, not /backend)
  npm i -D nodemon concurrently
  npm i bcryptjs
  npm i express-async-handler 
+ npm i redux react-redux redux-thunk redux-devtools-extension
  ```
  
 package.json "scripts"
