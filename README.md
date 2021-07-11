@@ -34,6 +34,7 @@ BACKEND (root folder, not /backend)
  npm i express mongoose 
  npm i -D nodemon concurrently
  npm i bcryptjs
+ npm i express-async-handler 
  ```
  
 package.json "scripts"
