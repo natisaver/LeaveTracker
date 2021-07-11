@@ -33,6 +33,7 @@ BACKEND (root folder, not /backend)
  npm init
  npm i express mongoose 
  npm i -D nodemon concurrently
+ npm i bcryptjs
  ```
  
 package.json "scripts"
