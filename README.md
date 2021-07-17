@@ -7,7 +7,7 @@ REACT FRONTEND
  npm i axios
  
  npm i redux react-redux redux-thunk redux-devtools-extension
- npm i react-dates
+ npm i react-dates moment
  ```
  
  ```bash
